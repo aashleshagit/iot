@@ -1,0 +1,3 @@
+## Add Remedy / Future Enhancements
+
+Although this IoT project demonstrates the basic concepts of device connectivity and data exchange, it can be further improved by adding detailed documentation and inline comments to enhance code readability and understanding. Real-time data visualization using a simple dashboard can be implemented to make the system more interactive. Security measures such as authentication and encrypted communication can be added to prevent unauthorized access. The project can also be extended to support additional sensors, devices, and communication protocols, making it more scalable and suitable for real-world IoT applications.
